@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace Algorithms
 {
@@ -6,9 +7,7 @@ namespace Algorithms
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("dotnet");
-            Console.WriteLine("dd");
+            int[] numbers = Console.ReadLine().Split().Select(int.Parse).ToArray();
         }
     }
 }
