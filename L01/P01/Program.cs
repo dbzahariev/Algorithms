@@ -23,6 +23,6 @@ namespace P01
             }
 
             return arr[index] + SumArray(arr, index + 1);
-}
+        }
     }
 }
