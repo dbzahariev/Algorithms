@@ -1,2 +1,6 @@
-mcs -out:hello.exe hello.cs
-mono hello.exe 
+За създаване на програма: Отваряме папката където искаме да създадем програмата
+.dotnet new console -o hello
+
+след като я напиша отварям терминала в главната папка на проекта и пиша
+.mcs -out:Program.exe Program.cs
+.mono Program.exe 
