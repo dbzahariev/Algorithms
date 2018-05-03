@@ -1,0 +1,77 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01_Permutations", "P01_Permutations\P01_Permutations.csproj", "{56473853-D120-45E2-8708-C00FDE78DD6B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P01_Permutations_with_swap", "P01_Permutations_with_swap\P01_Permutations_with_swap.csproj", "{CCE8F12E-015C-4763-8CEA-67E9CB8C5E3B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P02_Permutations_with_Repetitions", "P02_Permutations_with_Repetitions\P02_Permutations_with_Repetitions.csproj", "{73970499-957F-444E-A884-A54936542A87}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "F01_Permutations", "F01_Permutations", "{31819409-6692-428C-AB43-4D08A2502232}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "F02_Variations", "F02_Variations", "{559BA404-38FB-432B-BC52-1C21C80B0D17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P03_Variations_without_Repetitions", "P03_Variations_without_Repetitions\P03_Variations_without_Repetitions.csproj", "{78EA7EB1-2F68-463D-A2EA-73D27D80D9BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P04_Variations_with_Repetition", "P03_Variations_without_Repetitions\P04_Variations_with_Repetition\P04_Variations_with_Repetition.csproj", "{E317E907-549E-4F68-B60C-ACA65D8DF57A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "F03_Combinations", "F03_Combinations", "{6D8B1053-1090-423A-9FB4-56EA42DB7EA2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P05_Combinations_without_Repetition", "P05_Combinations_without_Repetition\P05_Combinations_without_Repetition.csproj", "{F9A3A586-6544-4581-8D66-43CA3D0FB655}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P06_Combinations_with_Repetition", "P05_Combinations_without_Repetition\P06_Combinations_with_Repetition\P06_Combinations_with_Repetition.csproj", "{C13763BA-E421-405E-90B5-66CE66510B98}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "F04_Binomial_Coefficients", "F04_Binomial_Coefficients", "{5C33AC3A-30A6-4550-93C2-3B67A6614B6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P07_N_Choose_K_Count", "P07_N_Choose_K_Count\P07_N_Choose_K_Count.csproj", "{D6E91C30-E08B-4BF2-BA0E-FA4DEC4228E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56473853-D120-45E2-8708-C00FDE78DD6B}.Debug|x86.ActiveCfg = Debug|x86
+		{56473853-D120-45E2-8708-C00FDE78DD6B}.Debug|x86.Build.0 = Debug|x86
+		{56473853-D120-45E2-8708-C00FDE78DD6B}.Release|x86.ActiveCfg = Release|x86
+		{56473853-D120-45E2-8708-C00FDE78DD6B}.Release|x86.Build.0 = Release|x86
+		{CCE8F12E-015C-4763-8CEA-67E9CB8C5E3B}.Debug|x86.ActiveCfg = Debug|x86
+		{CCE8F12E-015C-4763-8CEA-67E9CB8C5E3B}.Debug|x86.Build.0 = Debug|x86
+		{CCE8F12E-015C-4763-8CEA-67E9CB8C5E3B}.Release|x86.ActiveCfg = Release|x86
+		{CCE8F12E-015C-4763-8CEA-67E9CB8C5E3B}.Release|x86.Build.0 = Release|x86
+		{73970499-957F-444E-A884-A54936542A87}.Debug|x86.ActiveCfg = Debug|x86
+		{73970499-957F-444E-A884-A54936542A87}.Debug|x86.Build.0 = Debug|x86
+		{73970499-957F-444E-A884-A54936542A87}.Release|x86.ActiveCfg = Release|x86
+		{73970499-957F-444E-A884-A54936542A87}.Release|x86.Build.0 = Release|x86
+		{78EA7EB1-2F68-463D-A2EA-73D27D80D9BA}.Debug|x86.ActiveCfg = Debug|x86
+		{78EA7EB1-2F68-463D-A2EA-73D27D80D9BA}.Debug|x86.Build.0 = Debug|x86
+		{78EA7EB1-2F68-463D-A2EA-73D27D80D9BA}.Release|x86.ActiveCfg = Release|x86
+		{78EA7EB1-2F68-463D-A2EA-73D27D80D9BA}.Release|x86.Build.0 = Release|x86
+		{E317E907-549E-4F68-B60C-ACA65D8DF57A}.Debug|x86.ActiveCfg = Debug|x86
+		{E317E907-549E-4F68-B60C-ACA65D8DF57A}.Debug|x86.Build.0 = Debug|x86
+		{E317E907-549E-4F68-B60C-ACA65D8DF57A}.Release|x86.ActiveCfg = Release|x86
+		{E317E907-549E-4F68-B60C-ACA65D8DF57A}.Release|x86.Build.0 = Release|x86
+		{F9A3A586-6544-4581-8D66-43CA3D0FB655}.Debug|x86.ActiveCfg = Debug|x86
+		{F9A3A586-6544-4581-8D66-43CA3D0FB655}.Debug|x86.Build.0 = Debug|x86
+		{F9A3A586-6544-4581-8D66-43CA3D0FB655}.Release|x86.ActiveCfg = Release|x86
+		{F9A3A586-6544-4581-8D66-43CA3D0FB655}.Release|x86.Build.0 = Release|x86
+		{C13763BA-E421-405E-90B5-66CE66510B98}.Debug|x86.ActiveCfg = Debug|x86
+		{C13763BA-E421-405E-90B5-66CE66510B98}.Debug|x86.Build.0 = Debug|x86
+		{C13763BA-E421-405E-90B5-66CE66510B98}.Release|x86.ActiveCfg = Release|x86
+		{C13763BA-E421-405E-90B5-66CE66510B98}.Release|x86.Build.0 = Release|x86
+		{D6E91C30-E08B-4BF2-BA0E-FA4DEC4228E3}.Debug|x86.ActiveCfg = Debug|x86
+		{D6E91C30-E08B-4BF2-BA0E-FA4DEC4228E3}.Debug|x86.Build.0 = Debug|x86
+		{D6E91C30-E08B-4BF2-BA0E-FA4DEC4228E3}.Release|x86.ActiveCfg = Release|x86
+		{D6E91C30-E08B-4BF2-BA0E-FA4DEC4228E3}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{56473853-D120-45E2-8708-C00FDE78DD6B} = {31819409-6692-428C-AB43-4D08A2502232}
+		{CCE8F12E-015C-4763-8CEA-67E9CB8C5E3B} = {31819409-6692-428C-AB43-4D08A2502232}
+		{73970499-957F-444E-A884-A54936542A87} = {31819409-6692-428C-AB43-4D08A2502232}
+		{78EA7EB1-2F68-463D-A2EA-73D27D80D9BA} = {559BA404-38FB-432B-BC52-1C21C80B0D17}
+		{E317E907-549E-4F68-B60C-ACA65D8DF57A} = {559BA404-38FB-432B-BC52-1C21C80B0D17}
+		{F9A3A586-6544-4581-8D66-43CA3D0FB655} = {6D8B1053-1090-423A-9FB4-56EA42DB7EA2}
+		{C13763BA-E421-405E-90B5-66CE66510B98} = {6D8B1053-1090-423A-9FB4-56EA42DB7EA2}
+		{D6E91C30-E08B-4BF2-BA0E-FA4DEC4228E3} = {5C33AC3A-30A6-4550-93C2-3B67A6614B6A}
+	EndGlobalSection
+EndGlobal
